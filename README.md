@@ -1,5 +1,14 @@
 # SmartFleet Predict: AI-Driven Vehicle Maintenance System
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3.9+-blue?logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/Streamlit-Ready-red?logo=streamlit" alt="Streamlit">
+  <img src="https://img.shields.io/badge/Scikit--learn-Ready-orange?logo=scikit-learn" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/XGBoost-Ready-darkgreen?logo=xgboost" alt="XGBoost">
+  <img src="https://img.shields.io/badge/Pandas-Ready-purple?logo=pandas" alt="Pandas">
+  <img src="https://img.shields.io/badge/Jupyter-Ready-orange?logo=jupyter" alt="Jupyter">
+</div>
+
 ## Project Overview
 
 **SmartFleet Predict** is an AI-driven solution designed to revolutionize vehicle fleet management by predicting maintenance needs before critical failures occur. This system leverages machine learning to analyze various vehicle parameters, enabling proactive maintenance scheduling, thereby minimizing downtime, reducing operational costs, and extending vehicle lifespan.
