@@ -28,7 +28,7 @@ The final system includes an XGBoost classification model and an interactive Str
 
 Here is a preview of the final Streamlit dashboard, which allows managers to input vehicle data and receive an instant prediction.
 
-![SmartFleet Predict Dashboard Screenshot](Demo.png)
+![SmartFleet Predict Dashboard Screenshot](https://github.com/Ayush-Shrivas/SmartFleet-Predict-AI-Driven-Vehicle-Maintenance-System/blob/main/Demo/Website%20Demo.png)
 
 ## Video Demonstration
 
