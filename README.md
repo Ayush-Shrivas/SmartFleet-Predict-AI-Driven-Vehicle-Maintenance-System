@@ -34,7 +34,7 @@ Here is a preview of the final Streamlit dashboard, which allows managers to inp
 
 Click the image below to watch a full video walkthrough of the project, from running the app to performing a live prediction.
 
-[![Watch the video](dashboard-preview.png)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch the video](dashboard-preview.png)](https://github.com/Ayush-Shrivas/SmartFleet-Predict-AI-Driven-Vehicle-Maintenance-System/blob/main/Demo/Jupyter%20Souce%20Code%20Screen%20Record.mp4)
 
 **(Remember to replace `https://www.youtube.com/watch?v=YOUR_VIDEO_ID` with the actual link to your uploaded YouTube video. You can use the same `dashboard-preview.png` as the clickable thumbnail!)**
 
